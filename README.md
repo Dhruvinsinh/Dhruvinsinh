@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Dhruvinsinh
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m currently learning Full stack development
